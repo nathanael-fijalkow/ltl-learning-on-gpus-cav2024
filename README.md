@@ -22,6 +22,7 @@ To access the notebook, please use the link below and follow the instructions pr
 
 ## Citations
 
+```
 @inproceedings{ValizadehM:ltlleaog,
 	address = {Cham},
 	author = {Valizadeh, Mojtaba and Fijalkow, Nathana{\"e}l and Berger, Martin},
@@ -35,7 +36,9 @@ To access the notebook, please use the link below and follow the instructions pr
 	url = {https://doi.org/10.1007/978-3-031-65633-0_10},
 	year = {2024},
 	bdsk-url-1 = {https://doi.org/10.1007/978-3-031-65633-0_10}}
+```
 
+```
 @misc{ValizadehM:ltlleaog_software,
     author = {Valizadeh, Mojtaba and Fijalkow, Nathana{\"e}l and Berger, Martin},
     title = {{Software for: LTL Learning on GPUs}}, 
