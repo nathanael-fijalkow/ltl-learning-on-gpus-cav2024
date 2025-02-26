@@ -40,8 +40,8 @@ To access the notebook, please use the link below and follow the instructions pr
 
 ```
 @misc{ValizadehM:ltlleaog_software,
-    author = {Valizadeh, Mojtaba and Fijalkow, Nathana{\"e}l and Berger, Martin},
-    title = {{Software for: LTL Learning on GPUs}}, 
+	author = {Valizadeh, Mojtaba and Fijalkow, Nathana{\"e}l and Berger, Martin},
+	title = {{Software for: LTL Learning on GPUs}}, 
 	year={2024},
-    howpublished = {\url{https://github.com/MojtabaValizadeh/ltl-learning-on-gpus}}
+	howpublished = {\url{https://github.com/MojtabaValizadeh/ltl-learning-on-gpus}}
 }
